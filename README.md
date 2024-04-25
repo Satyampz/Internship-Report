@@ -3,10 +3,7 @@
 A Resturant Management System Project in PHP...
 
 Made by :
-1.Mansi Mankar
-2.Sakshi More
-3.Satyam Zope
-4.Rushikesh Malve
+Satyam Zope
 
 TE GES R.H. Sapat College Of Engineering ,Nashik
 
